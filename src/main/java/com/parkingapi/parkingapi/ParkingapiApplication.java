@@ -1,0 +1,13 @@
+package com.parkingapi.parkingapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ParkingapiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ParkingapiApplication.class, args);
+	}
+
+}
